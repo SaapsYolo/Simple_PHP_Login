@@ -4,7 +4,7 @@ Project Plan
 
 	Root directory
 		|--Login.php
-		|--Home.php
 		|--db_users.php
 		|--logout.php
-		|logout_process.php
+		|--Logout_processing.php
+		|--Index.php
